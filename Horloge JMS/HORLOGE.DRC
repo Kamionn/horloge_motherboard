@@ -1,0 +1,17 @@
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+ERROR:  [DRC0004]  Possible pin type conflict U11,OUT Output Connected to Power
+                    SCHEMATIC1, PAGE1  (3.60, 5.60) 
+WARNING:  [DRC0005]  Unconnected pin U1,RA7/OSC1/CLKIN
+                    SCHEMATIC1, PAGE1  (2.70, 3.00) 
+
+Checking for Unconnected Nets
+
+Checking for Invalid References
+
+Checking for Duplicate References

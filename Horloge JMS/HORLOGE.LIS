@@ -1,0 +1,17 @@
+AutoECO Report
+FILE-A: M:\ELECTRONIQUE\HORLOGE JMS\HORLOGE.MAX
+FILE-B: .\HORLOGE.MNL
+If "*EOF*" immediately follows, no changes were made
+Deleting S11.2 from net N00264
+Adding S10.2 to net N00264
+Deleting S12.2 from net N00274
+Adding S11.2 to net N00274
+Deleting S10.2 from net N00284
+Adding S12.2 to net N00284
+Deleting component 20
+Deleting component 19
+Deleting component 18
+Deleting component 17
+Deleting component 16
+*EOF*
+No errors found

@@ -1,0 +1,99 @@
+(ExpressProject "horloge"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\horloge.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Report_File "M:\HORLOGE\HORLOGE.DRC")
+    (Netlist_TAB "5")
+    (LAYOUT_Netlist_File "M:\HORLOGE\HORLOGE.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (TRUE)
+    (LAYOUT_Units "0")
+    ( "TRUE"))
+  (Folder "Outputs"
+    (File ".\horloge.drc"
+      (Type "Report"))
+    (File ".\horloge.mnl"
+      (Type "LAYOUT Netlist File")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (7805
+      (FullPartName "7805.Normal")
+      (LibraryName "C:\LIBRAIRIES ORCAD JMS\JMS.OLB")
+      (DeviceIndex "0"))
+    (CPOL
+      (FullPartName "CPOL.Normal")
+      (LibraryName "C:\LIBRAIRIES ORCAD JMS\JMS.OLB")
+      (DeviceIndex "0"))
+    (1N4001
+      (FullPartName "1N4001.Normal")
+      (LibraryName "C:\LIBRAIRIES ORCAD JMS\JMS.OLB")
+      (DeviceIndex "0"))
+    (BORNIER_2_BORNES
+      (FullPartName "BORNIER_2_BORNES.Normal")
+      (LibraryName "C:\LIBRAIRIES ORCAD JMS\JMS.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "C:\LIBRAIRIES ORCAD JMS\JMS.OLB")
+      (DeviceIndex "0"))
+    (POT
+      (FullPartName "POT.Normal")
+      (LibraryName "C:\LIBRAIRIES ORCAD JMS\JMS.OLB")
+      (DeviceIndex "0"))
+    ("SW PUSHBUTTON-SPST"
+      (FullPartName "SW PUSHBUTTON-SPST.Normal")
+      (LibraryName "C:\ORCAD_91\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (BP
+      (FullPartName "BP.Normal")
+      (LibraryName "N:\TUTORIEL ORCAD\LIBRAIRIES ORCAD JMS\STS_1C.OLB")
+      (DeviceIndex "0"))
+    (lcd-con
+      (FullPartName "lcd-con.Normal")
+      (LibraryName "N:\TUTORIEL ORCAD\LIBRAIRIES ORCAD JMS\STS_1C.OLB")
+      (DeviceIndex "0"))
+    (PIC18F2580
+      (FullPartName "PIC18F2580.Normal")
+      (LibraryName "N:\TUTORIEL ORCAD\LIBRAIRIES ORCAD JMS\STS_1C.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Outputs")
+      (Select "Design Resources" ".\horloge.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 243 0 579"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 290 1875 5 913")
+        (Scroll "135 373")
+        (Zoom "228")
+        (Occurrence "/"))
+      (Path "M:\HORLOGE\HORLOGE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (LastUsedLibraryBrowseDirectory "C:\Librairies ORCAD JMS"))

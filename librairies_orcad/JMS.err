@@ -1,0 +1,8 @@
+STATUS: MicroSim Schematics to Capture translator (9.1.1392)
+STATUS:  
+STATUS: Translator started at Saturday, February 11, 2012 16:45:40
+STATUS: C:\OrCAD_91\Capture\sch2cap -f "D:\LIB_ORCAD\JMS.LIB" -o "D:\LIB_ORCAD\JMS.olb" -i C:\Windows\pspice91.ini
+   INFO: Using existing library 'C:\OrCAD_91\Capture\Library\PSpice\modeled.etc'.
+   INFO: Using existing library 'D:\LIB_ORCAD\JMS.olb'.
+STATUS: Translator stopped at Saturday, February 11, 2012 16:45:40
+STATUS: 0 Error messages, 0 Warning messages

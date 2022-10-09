@@ -1,0 +1,59 @@
+AutoECO Report
+FILE-A: M:\HORLOGE\HORLOGE.MAX
+FILE-B: M:\HORLOGE\HORLOGE.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding footprint CPR2-2
+Adding footprint DIP28
+Adding footprint SIP14
+Adding footprint RC05
+Adding footprint BORNIER_2BR_5_08MM
+Adding footprint RJ12_EC
+Adding footprint AJUST_H
+Adding footprint TO-220-HORIZONTAL
+Adding footprint DO-41
+Adding package CPOL
+Adding package PIC18F2580
+Adding package LCD-CON
+Adding package R
+Adding package BORNIER_2_BORNES
+Adding package RJ12
+Adding package POT
+Adding package 7805_0
+Adding package 1N4001_0
+Adding package SW_PUSHBUTTON-SPST
+Adding component C2
+Adding component U9
+Adding component U10
+Adding component R1
+Adding component C1
+Adding component B2
+Adding component J1
+Adding component R2
+Adding component P2
+Adding component U11
+Adding component D1
+Adding component SW1
+Found footprint bp-d6 from PRT file for part SW_PUSHBUTTON-SPST, comp SW1
+Adding component SW2
+Adding component SW3
+Adding component SW4
+Adding net N00449
+Adding net GND EARTH
+Adding net N00556
+Adding net N01998
+Adding net +5V
+Adding net N01987
+Adding net N01442
+Adding net D1
+Adding net D0
+Adding net EN
+Adding net D3
+Adding net D2
+Adding net RS
+Adding net N00342
+Adding net N00354
+Adding net N00366
+Adding net N00378
+Deleting net DEFAULT
+*EOF*
+No errors found
